@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\Documents\\GitHub\\Proyecto-Andres-Chris\\Proyecto-Andres-Chris\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7C2C5-4F57-40CE-B0F6-FE6DC0E3EE5A}|Proyecto\\Proyecto.csproj|c:\\users\\home\\documents\\github\\proyecto-andres-chris\\proyecto-andres-chris\\proyecto\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7C2C5-4F57-40CE-B0F6-FE6DC0E3EE5A}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Documents\\GitHub\\Proyecto-Andres-Chris\\Proyecto-Andres-Chris\\Proyecto\\Proyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\Documents\\GitHub\\Proyecto-Andres-Chris\\Proyecto-Andres-Chris\\Proyecto\\Proyecto\\Program.cs",
+              "RelativeToolTip": "Proyecto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T03:45:25.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
