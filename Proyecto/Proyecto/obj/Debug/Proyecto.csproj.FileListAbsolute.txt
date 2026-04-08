@@ -1,0 +1,8 @@
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Home\Documents\GitHub\Proyecto-Andres-Chris\Proyecto-Andres-Chris\Proyecto\Proyecto\obj\Debug\Proyecto.exe.config
